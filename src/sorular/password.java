@@ -25,6 +25,7 @@ public class password {
 
                 "sifre uzunlugu en az 8 karakter olmalı");
         System.out.println("duzeltildi");
+        System.out.println("son son");
 
     }
 }
