@@ -19,6 +19,11 @@ public class Class1 extends parent implements Interface1,Interface2,Interface3 {
     }
 
     @Override
+    public void inter1f() {
+
+    }
+
+    @Override
     public void inter2a() {
 
     }

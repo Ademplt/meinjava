@@ -24,5 +24,7 @@ public class password {
                         "sifre bosluk ıcermemelı")) :
 
                 "sifre uzunlugu en az 8 karakter olmalı");
+        System.out.println("duzeltildi");
+
     }
 }
