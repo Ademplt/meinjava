@@ -18,6 +18,9 @@ public class Q05_arraysReverse {
         System.out.println(str);
 
         String arr[] = str.split("");
+       // Collections.reverse(strList);
+       // List<String> strList = new ArrayList<String>(Arrays.asList(str.split("")));
+       // System.out.println(strList);
         String reverse="";
         for (int i=arr.length-1; i>=0; i--) {
        reverse +=arr[i];

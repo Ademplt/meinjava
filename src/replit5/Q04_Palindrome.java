@@ -21,6 +21,8 @@ Output:Reversed sentence : avaJ evol I. It is not a palindrome"
         System.out.println(reversedSentence);
         if (!temp.equals(reversedSentence)) {
             System.out.println(" It is not a palindrome");
+        }else{
+            System.out.println("It is a palindrome");
         }
     }
 }
