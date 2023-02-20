@@ -1,4 +1,5 @@
 package sorular;
+
 import java.util.Scanner;
 
 public class password {

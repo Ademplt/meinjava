@@ -24,7 +24,7 @@ public class Q02 {
         int gCd=1;
         int lCm;
         int divisor=1;
-        int kucukSayi=zahl1<zahl2?zahl1:zahl2;
+        int kucukSayi=zahl1<zahl2?zahl1:zahl2; //Math.min(zahl1,zahl2)
         while (divisor<=kucukSayi){
             if (zahl1%divisor==0 && zahl2%divisor==0){
                 gCd=divisor;
